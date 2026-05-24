@@ -1,0 +1,15 @@
+{
+  "itemGroup.remarxks_mechanical_spawner": "Remarxk's Mechanical Spawner",
+  "block.remarxks_mechanical_spawner.mechanical_spawner": "Mechanical Spawner",
+  "block.remarxks_mechanical_spawner.mechanical_spawner_desc": "%s %s",
+  "tooltip.remarxks_mechanical_spawner.entity": "Bind Entity: %s",
+  "create.gui.goggle.spawner_content": "Bind Entity: ",
+
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_setentity.header": "Set Mechanical Spawner Entity",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_setentity.text_1": "Use the Mechanical Spawner on a mob spawner while crouching to configure its entity type",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_setentity.text_2": "Use a spawn egg on the Mechanical Spawner to set its entity type as well",
+
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_working.header": "Mechanical Spawner Working",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_working.text_1": "Providing Speed allows it to spawn mobs",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_working.text_2": "Higher Speed increases spawn rate and launch distance"
+}

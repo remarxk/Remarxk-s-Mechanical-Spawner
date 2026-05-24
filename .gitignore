@@ -1,0 +1,15 @@
+build/
+.gradle/
+run/
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+classes/
+*.class
+*.log
+*.jar
+*.jar.asc
+generated/
+bin/

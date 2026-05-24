@@ -1,0 +1,13 @@
+{
+  "itemGroup.remarxks_mechanical_spawner": "Remarxk的动力刷怪笼",
+  "block.remarxks_mechanical_spawner.mechanical_spawner": "动力刷怪笼",
+  "block.remarxks_mechanical_spawner.mechanical_spawner_desc": "%s %s",
+  "tooltip.remarxks_mechanical_spawner.entity": "绑定生物: %s",
+  "create.gui.goggle.spawner_content": "绑定生物: ",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_setentity.header": "设置动力刷挂笼的生物",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_setentity.text_1": "通过动力刷怪笼对着刷怪笼潜行使用可以设置生成生物类型，同时会破坏刷怪笼",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_setentity.text_2": "当对应动力刷怪笼使用刷怪蛋可以设置生成生物类型",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_working.header": "动力刷怪笼工作",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_working.text_1": "提供转速开始工作",
+  "remarxks_mechanical_spawner.ponder.mechanical_spawner_working.text_2": "更高的转速能更快生成和甩飞的更远"
+}
